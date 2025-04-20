@@ -81,7 +81,7 @@ int main() {
 
     // Art Students - Pratik and friends
     std::string art_first[] = {"Pratik", "Pukar", "Abhinav", "Shriharsh", "Prabin"};
-    std::string art_last[]  = {"Ojha", "Adhikari", "", "Acharya", "Loireda"};
+    std::string art_last[]  = {"Ojha", "Adhikari", "Bhattarai", "Acharya", "Loireda"};
     std::string emphases[]  = {"Art Studio", "Art History", "Art Education", "Art Studio", "Art History"};
 
     for (int i = 0; i < 5; i++) {
